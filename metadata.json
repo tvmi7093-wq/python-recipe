@@ -1,0 +1,5 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "A SaaS application that generates recipes from photos of food, with multilingual support and placeholder subscription features.",
+  "requestFramePermissions": []
+}
